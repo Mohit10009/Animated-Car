@@ -58,7 +58,7 @@ body{
     position: relative;
     top:42px;
     left:42px;
-    animation: wheelRotation linear .2s infinite;
+    animation: wheelRotation linear .35s infinite;
 }
 
 
@@ -67,7 +67,7 @@ body{
     position: relative;
     top: -39px;
     left: 235px;
-    animation: wheelRotation linear .2s infinite;
+    animation: wheelRotation linear .35s infinite;
 
 }
 
